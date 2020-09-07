@@ -43,6 +43,19 @@ In your `.vue` template:
 ```
 The example above uses javascript highlighting, you can change the class on the code element to any of the [supported languages](https://highlightjs.org/static/demo/) to set the highlighting.
 
+## Module Options
+
+Set the highlight js theme with the "style" option. 
+[See list of available style options](https://github.com/Llang8/nuxt-highlightjs/blob/master/STYLES.md)
+```js
+  modules: [
+    // With Options
+    ['nuxt-highlightjs', {
+      style: 'default'
+    }]
+  ],
+```
+
 ## License
 
 [MIT](http://vjpr.mit-license.org)
