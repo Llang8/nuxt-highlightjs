@@ -45,13 +45,17 @@ The example above uses javascript highlighting, you can change the class on the 
 
 ## Module Options
 
-Set the highlight js theme with the "style" option. 
+`style`
+ - Type: `string`
+ - Default: `default`
+ 
+Set the highlight.js theme
 [See list of available style options](https://github.com/Llang8/nuxt-highlightjs/blob/master/STYLES.md)
 ```js
   modules: [
     // With Options
     ['nuxt-highlightjs', {
-      style: 'default'
+      style: 'obsidian'
     }]
   ],
 ```
