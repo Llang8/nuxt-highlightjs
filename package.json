@@ -1,0 +1,37 @@
+{
+  "name": "nuxt-highlightjs",
+  "version": "1.0.0",
+  "description": "Highlightjs code block styling and syntax highlighting for Nuxt 2",
+  "main": "lib/module.js",
+  "homepage": "https://github.com/Llang8/nuxt-highlightjs",
+  "bugs": {
+    "url": "https://github.com/Llang8/nuxt-highlightjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Llang8/nuxt-highlightjs"
+  },
+  "author": "Lucas Lang <lucaslang8@gmail.com> (https://lucaslang.dev/)",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/.bin/eslint *.js"
+  },
+  "dependencies": {
+    "highlight.js": "^10.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  },
+  "keywords": [
+    "nuxt",
+    "nuxtjs",
+    "vue",
+    "vuejs",
+    "highlight",
+    "highlight.js",
+    "code",
+    "highlighting",
+    "codeblock"
+  ]
+}
