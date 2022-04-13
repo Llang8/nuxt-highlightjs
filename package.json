@@ -1,6 +1,6 @@
 {
   "name": "nuxt-highlightjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Highlightjs code block styling and syntax highlighting for Nuxt 2",
   "main": "lib/module.js",
   "homepage": "https://github.com/Llang8/nuxt-highlightjs",
@@ -18,7 +18,7 @@
     "lint": "./node_modules/.bin/eslint *.js"
   },
   "dependencies": {
-    "highlight.js": "^10.1.2"
+    "highlight.js": "^11.5.1"
   },
   "devDependencies": {
     "eslint": "^4.18.2"
