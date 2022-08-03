@@ -1,6 +1,6 @@
 {
   "name": "nuxt-highlightjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Highlightjs code block styling and syntax highlighting for Nuxt 2",
   "main": "lib/module.js",
   "homepage": "https://github.com/Llang8/nuxt-highlightjs",
